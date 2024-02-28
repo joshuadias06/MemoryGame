@@ -3,7 +3,7 @@ const BACK = "card_back"
 const CARD = "card"
 const ICON = "icon"
 
-let techs = [ 'bootstrap',
+let techs = ['bootstrap',
     'css',
     'electron',
     'firebase',
